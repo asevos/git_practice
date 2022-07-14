@@ -1,0 +1,1 @@
+Congrats! You should now have a minimal production Git toolkit!
