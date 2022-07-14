@@ -1,8 +1,10 @@
 {
     "use_static": true,
     "width": 100,
+    "schema": "dev",
     "height": 42,
     "analytics_on": false,
     "length": 45,
+    "move_on_click": true,
     "z_level": 1
 }
