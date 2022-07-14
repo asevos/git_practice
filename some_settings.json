@@ -1,8 +1,7 @@
 {
-    "use_static": true,
+    "use_static": "dfdfd",
     "width": 100,
-    "height": 42,
     "analytics_on": false,
-    "length": 45,
+    "this shouldn't": "be here",
     "z_level": 1
 }
