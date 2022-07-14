@@ -2,6 +2,8 @@
     "analytics_on": false,
     "height": 42,
     "length": 45,
+    "move_on_click": true,
+    "schema": "dev",
     "use_static": true,
     "width": 100,
     "z_level": 1
